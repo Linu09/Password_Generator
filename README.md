@@ -2,7 +2,7 @@
 
 Python script to generate the 12 characters of random password.
 
-#OutPut
+# OutPut
 
 Welcome to the PyPassword Generator!
 
